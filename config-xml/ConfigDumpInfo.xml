@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Bestaende" id="f2e31373-0c04-485f-b37b-953fb4fcddfc" configVersion="465afb0596a50643986e80955795868700000000">
+			<Metadata name="AccumulationRegister.Bestaende.Dimension.Komponenten" id="23f80b24-faa2-4c35-89c6-8213bcdbdce8"/>
+			<Metadata name="AccumulationRegister.Bestaende.Resource.Menge" id="2c920868-e6df-4963-9877-a6e1e17f9c48"/>
+		</Metadata>
+		<Metadata name="Catalog.Komponenten" id="ec55467e-a53a-4238-9008-5877e52edbcc" configVersion="af050d7530f46a44924ae67a9d18bcea00000000">
+			<Metadata name="Catalog.Komponenten.Attribute.Lieferant" id="2945b16c-a5ec-4d73-c681-d1f2739e45a6"/>
+			<Metadata name="Catalog.Komponenten.Attribute.KomponentenTyp" id="59f06da1-d55a-4ccd-ada2-608a9b966f2f"/>
+			<Metadata name="Catalog.Komponenten.Attribute.Einheit" id="6f6cdc38-8c36-42cc-8842-a50145ba9094"/>
+			<Metadata name="Catalog.Komponenten.Attribute.Mindestbestand" id="7b1d4a52-6c3e-4f18-9d47-2a8d5c0b1e93"/>
+			<Metadata name="Catalog.Komponenten.Attribute.Beschreibung" id="ac5b2585-b406-4862-90ce-6ebc3cff836a"/>
+			<Metadata name="Catalog.Komponenten.Attribute.Artikel" id="f95dc18e-9c0c-44ea-a414-1f61c7a19480"/>
+		</Metadata>
+		<Metadata name="Catalog.Komponenten.ObjectModule" id="ec55467e-a53a-4238-9008-5877e52edbcc.0" configVersion="68b466bf00ed3e468c7253642727898d00000000"/>
+		<Metadata name="Catalog.Lieferanten" id="4b7c1d92-8e35-4f61-9c07-2d84b1e6f3a9" configVersion="c29f2559d76c0d428b1a6d103169536900000000">
+			<Metadata name="Catalog.Lieferanten.Attribute.Mindestbestellwert" id="0723f94a-83ca-4b51-a469-bfd0517c2384"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Aktiv" id="1834a05b-94db-4c62-b570-c0e1628d3495"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Kuerzel" id="a1c7f3e8-2d64-4b95-8e03-5f7a9b1c6d28"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Ansprechpartner" id="b2d8a4f9-3e75-4c06-9f14-6a8b0c2d7e39"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Email" id="c3e9b506-4f86-4d17-a025-7b9c1d3e8f4a"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Telefon" id="d4f0c617-5097-4e28-b136-8cad2e4f9051"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Land" id="e501d728-61a8-4f39-8247-9dbe3f5a0162"/>
+			<Metadata name="Catalog.Lieferanten.Attribute.Lieferzeit" id="f612e839-72b9-4a40-9358-aecf406b1273"/>
+		</Metadata>
+		<Metadata name="Catalog.Lieferanten.ObjectModule" id="4b7c1d92-8e35-4f61-9c07-2d84b1e6f3a9.0" configVersion="cd61efaaf97bb741bcc7e036168ffb2000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6070773d-7a83-483b-a270-2d57c62ffa1a" configVersion="0e01dab629842f4788aa8e95f10a31d000000000"/>
+		<Metadata name="Document.Verbrauch" id="6a021c13-974f-4dfa-901d-78cbceb16f35" configVersion="f0b7e59cbbc210498e04856191953d2f00000000">
+			<Metadata name="Document.Verbrauch.TabularSection.Komponenten.Attribute.Komponente" id="b51cc343-cc66-4969-adad-ffdc86265040"/>
+			<Metadata name="Document.Verbrauch.TabularSection.Komponenten.Attribute.Menge" id="d234a6e3-8d02-4d73-8d0a-02bea2e1dc3a"/>
+			<Metadata name="Document.Verbrauch.TabularSection.Komponenten" id="e011dc02-6689-4aa0-8305-de0f3e613e1b"/>
+		</Metadata>
+		<Metadata name="Document.Verbrauch.ObjectModule" id="6a021c13-974f-4dfa-901d-78cbceb16f35.0" configVersion="43e034fe01e6bf49abcfa3cdbc577a2100000000"/>
+		<Metadata name="Document.Wareneingang" id="446a4324-7c6a-4caa-881c-0cfafae46bae" configVersion="058d77ec5bbdd9419631325a0a106e5d00000000">
+			<Metadata name="Document.Wareneingang.Attribute.Komponenten" id="1f34e39f-9961-4f01-8b5a-8fc795340532"/>
+			<Metadata name="Document.Wareneingang.Attribute.Menge" id="58ce90fd-aba3-424e-819e-b92775d1c21c"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="455326b4-8b2f-4055-abbd-20f74cc6376c" configVersion="72b7c9fd03eb804b90805f27afaaefca00000000"/>
+		<Metadata name="Report.Lagerbestand" id="73b32e6f-23cf-40f7-93f5-eb2132282df4" configVersion="a34884ad07d9064fa6412ae3eaf4f4b600000000"/>
+		<Metadata name="Report.Lagerbestand.Template.ОсновнаяСхемаКомпоновкиДанных" id="251b5250-c275-4755-b30d-453b5adea01d" configVersion="e6049ff8429331469a9944d6f3e9856d00000000"/>
+		<Metadata name="Report.Lagerbestand.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="251b5250-c275-4755-b30d-453b5adea01d.0" configVersion="4b06c3c3633c204fa5e7d1c4aad31f2900000000"/>
+		<Metadata name="Report.Lieferantenuebersicht" id="6f2a9c41-7d38-4b52-8e06-1c95a3d7b240" configVersion="568ba2c950c499499085993ac5e7d8fd00000000"/>
+		<Metadata name="Report.Lieferantenuebersicht.Template.ОсновнаяСхемаКомпоновкиДанных" id="b8f4d2a1-6c93-4e07-8d52-3a17c9f0b6e4" configVersion="70b86d8584658741b804f6556223bc9500000000"/>
+		<Metadata name="Report.Lieferantenuebersicht.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b8f4d2a1-6c93-4e07-8d52-3a17c9f0b6e4.0" configVersion="2c544c535f9ae74ead87e6df4d0fecdf00000000"/>
+		<Metadata name="Subsystem.Lager" id="aef3f7c4-9b2e-4331-b9ad-4693c74edcb8" configVersion="7ac13b69814fa1499a59f41cec29365600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
